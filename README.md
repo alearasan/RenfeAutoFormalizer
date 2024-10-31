@@ -1,6 +1,6 @@
 # RenfeAutoFormalizer
 
-Este proyecto automatiza el proceso de **formalización y reserva** de trenes por medio de **abonos** en la página web de Renfe utilizando Selenium en Python. Está diseñado para facilitar la búsqueda y selección de un tren con una hora de salida específica, realizando múltiples intentos de búsqueda si es necesario.
+Este proyecto automatiza el proceso de **formalización y reserva** de trenes por medio de **abonos** en la página web de Renfe utilizando Selenium en Python. Está diseñado para facilitar la búsqueda y selección de un tren con una hora de salida específica, realizando múltiples intentos de búsqueda hasta que aparezca una plaza y sea posible realizar la formalización.
 
 ## Descripción
 
