@@ -52,6 +52,18 @@ El script se encarga de:
    - `HORA_SALIDA_DESEADA`: La hora de salida del tren que deseas, en formato `HH.MM`.
    - `MAX_INTENTOS`: Número máximo de intentos para buscar el tren.
    - `ES_VUELTA`: Define si es el trayecto de vuelta (`True`) o de ida (`False`).
+  
+## Consola
+
+En la consola se irá imprimiendo toda la información relacionada al estado del bucle.
+
+1. **El tren no está disponible**
+   
+![image](https://github.com/user-attachments/assets/75b041cf-0c5c-4ebc-82a4-f0459743d5f2)
+
+3. **El tren se ha formalizado**
+   
+![image](https://github.com/user-attachments/assets/b8b9a6c2-c3ff-47ff-92ab-f741a3b74048)
 
 ## Características
 
